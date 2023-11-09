@@ -1,1 +1,1 @@
-# ContainerWorkshop2024Spring
+# Pulling, running, and building containerized applications for HPC
