@@ -7,10 +7,10 @@ In this workshop, we will introduce how to pull, run and build containers with S
 
 Topics will include:
 
-- What are containers and why should we use them?
+- What are containers and why should we use them
 - Singularity/Apptainer basics
-- Advanced topics including MPI and GPU enabled containers. 
-- Integration with Biocontainers and NGC containers with the module system
+- Advanced topics including MPI and GPU enabled containers
+- Wrapping containers into environment modules
 
 
 This is the user guide for running  bioinformatics analysis on `Tufts High Performance Computing clusters <https://it.tufts.edu/high-performance-computing/hpc-welcome-page/>`_.
