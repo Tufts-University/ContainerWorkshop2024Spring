@@ -25,11 +25,3 @@ If you have any question, contact me (`Yucheng Zhang <mailto:yzhang85@tufts.edu>
    containerize-your-code/overview
    singularity/00.overview
    advanced/00.overview
-
-
-Indices and tables
-==================
-
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`

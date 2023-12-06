@@ -22,7 +22,7 @@ import sphinx_rtd_theme
 
 # -- Project information -----------------------------------------------------
 
-project = 'Tufts HPC Bioinformatics'
+project = 'Containers@Tufts Research Technology'
 copyright = '2023, Tufts University'
 author = 'Tufts Research Technology'
 

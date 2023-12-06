@@ -1,0 +1,6 @@
+Environment Modules for Containers
+=================================================
+The feature of portability in containers makes it easier to deploy applications in HPC environments. While containers have become widely used in HPC environments, users in this space are used to working with environment modules when building native applications. NVIDIA responded to this by creating NGC container environment modules that use Lmod environment modules and shell functions to expose applications directly to the command line interface in a seamless manner. With the NGC container environment modules, HPC users can take advantage of familiar environment module commands without having to learn complex container syntax or modify their existing workflows.
+However, Tufts clusters are still using the TCL(Tool Command Language) environment modules instead of LMOD. To enable the use of TCL modules to wrap container images, we developed a new workflow. 
+Currently, there are two sets of environment modules on Tufts HPC that are based on containers: biocontainers and ngc.
+

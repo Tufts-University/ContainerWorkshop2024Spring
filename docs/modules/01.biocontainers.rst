@@ -1,0 +1,4 @@
+NVIDIA NGC containers
+=================================================
+Bioinformatics algorithms and applications are becoming more complex with time. However, deploying a wide range of these applications on production systems using traditional methods is becoming too burdensome for HPC center staff. Fortunately, we have found that container technology is a solution to this problem that has persisted for a long time. We plan to replace all bioinformatics apps built from source codes with containerized versions in the future.
+
