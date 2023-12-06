@@ -1,0 +1,13 @@
+How to use Singularity/Apptainer on Tufts HPC
+=================================================
+This session will introduce several subcommands of singualarity.
+
+.. toctree::
+   :maxdepth: 1
+   :caption: Sections:
+
+   01.subcommands
+   02.options
+   03.environmentvariables
+
+

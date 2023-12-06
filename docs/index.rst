@@ -22,7 +22,7 @@ If you have any question, contact me (`Yucheng Zhang <mailto:yzhang85@tufts.edu>
    :caption: Contents:
    
    containers/00.overview
-   modules/00.overview
-   containerize-your-code/overview
    singularity/00.overview
+   modules/00.overview
    advanced/00.overview
+   demo/00.overview
