@@ -1,0 +1,20 @@
+Welcome to Containers @ Tufts Research Technology
+=================================================
+
+In this section, we will introduce containers, explain their uses, and discuss different container technologies. Our focus will be on two specific technologies: `Docker <https://www.docker.com>`_ and `SingularityCE <https://sylabs.io/singularity/>`_/`Apptainer <https://apptainer.org>`_.
+
+**Objectives for this session:**
+
+  * What are containers?
+  * Why should we use containers?
+  * Introduction to various container technologies.
+
+
+.. toctree::
+   :maxdepth: 1
+   :caption: Sections:
+
+   01.containerintro
+   02.dockerintro
+   03.singularityintro
+   04.apptainerintro
