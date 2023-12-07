@@ -4,3 +4,9 @@ The feature of portability in containers makes it easier to deploy applications 
 However, Tufts clusters are still using the TCL(Tool Command Language) environment modules instead of LMOD. To enable the use of TCL modules to wrap container images, we developed a new workflow. 
 Currently, there are two sets of environment modules on Tufts HPC that are based on containers: biocontainers and ngc.
 
+.. toctree::
+   :maxdepth: 1
+   :caption: Sections:
+
+   01.biocontainers
+   02.ngc
